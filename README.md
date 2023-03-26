@@ -6,7 +6,7 @@
 
 ## 你需要准备什么：
 
-- 一台iphone/ipad/mac
+- 一台iphone/ipad/mac/iwatch
 - 一个chatgpt的apikey [点我找到自己的apiKey](https://platform.openai.com/account/api-keys)
 - [我们的雌小鬼prompt](https://github.com/Ononokierii/mesugaki-siri/blob/main/%E9%9B%8C%E5%B0%8F%E9%AC%BCprompt)
 - 手
